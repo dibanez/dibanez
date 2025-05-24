@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm David Ibañez Cerdeira
 
-<!--
-**dibanez/dibanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer passionate about technology, automation, and open source software.  
+🔧 I enjoy building useful tools, sharing knowledge, and contributing to the open source community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Interested in backend development, software architecture, and efficient distributed systems.
+- 🐍 I mostly work with **Python**, especially with **Django** and **FastAPI**.
+- 🐳 I use **Docker** and CI/CD tools like **GitHub Actions** to automate deployments and environments.
+- ⚙️ Also experienced in **DevOps**, virtualization, and server management with **Proxmox**.
+- 🎙️ Launching a **technology podcast** and always looking to share what I learn.
+
+## 📦 Highlight Projects
+
+- 🔐 Discord verification bot with Google Sheets integration.
+- 🛠️ Sports court booking system built with Django and a prepaid credit system.
+- 🌐 Clean architecture with FastAPI using DDD principles.
+- 🎮 Custom plugins for the game **Rust**.
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidibanezcerdeira/)
+
+---
+
+✨ Always learning, always sharing.
